@@ -1,4 +1,4 @@
-# solid-roll-front
+# photo-gallery
 
 ## Project setup
 ```
